@@ -1,7 +1,3 @@
-Certainly! Here's a sample README file for a simple calculator built with Java:
-
----
-
 # Simple Calculator
 
 This is a basic calculator application built using Java. It provides functionality for performing simple arithmetic operations such as addition, subtraction, multiplication, and division.
