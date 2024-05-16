@@ -21,7 +21,7 @@ This is a basic calculator application built using Java. It provides functionali
 1. Clone or download the repository to your local machine.
 
 ```
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/Hemala52/Simple_Calculator.git
 ```
 
 2. Open the project in your preferred IDE.
